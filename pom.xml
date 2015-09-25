@@ -7,7 +7,7 @@
     <groupId>rms</groupId>
     <artifactId>main</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <modules>
         <module>rms-api</module>
         <module>rms-service</module>

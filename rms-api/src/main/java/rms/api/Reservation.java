@@ -1,7 +1,10 @@
 package rms.api;
 
+import rms.customer.Customer;
+
 /**
- *
+ * Represents a booking on an <class>Item</class> by a <class>Customer</class>
+ * for a given <class>Schedule</class>
  */
 public class Reservation {
 
